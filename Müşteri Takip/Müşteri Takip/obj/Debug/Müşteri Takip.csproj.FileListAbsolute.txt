@@ -1,0 +1,18 @@
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\bin\Debug\Müşteri Takip.exe.config
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\bin\Debug\Müşteri Takip.exe
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\bin\Debug\Müşteri Takip.pdb
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri Takip.csprojAssemblyReference.cache
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri_Takip.Properties.Resources.resources
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri Takip.csproj.GenerateResource.cache
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri Takip.csproj.CoreCompileInputs.cache
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri Takip.exe
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri Takip.pdb
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri_Takip.Form1.resources
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri Takip.csproj.CopyComplete
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri_Takip.frmMusteri.resources
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri_Takip.frmMusteri2.resources
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri_Takip.frmAnaSayfa.resources
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri_Takip.frmProjeler.resources
+C:\Users\kasla\source\repos\Müşteri Takip\Müşteri Takip\obj\Debug\Müşteri_Takip.frmProjeler2.resources
