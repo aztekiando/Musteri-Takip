@@ -1,6 +1,6 @@
 # Müşteri - Proje Takip Programı
 
-Projede SQL ve Bunifu kullanılmıştır.
+Projede SQL ve [Bunifu](https://bunifuframework.com/) kullanılmıştır.
 Modern UI tasarımı ile hem göze hitap eden hemde işlemleri kolaylaştıran bir program hazırlanmıştır.
 
 # Programa ait görüntüler
@@ -12,3 +12,8 @@ Modern UI tasarımı ile hem göze hitap eden hemde işlemleri kolaylaştıran b
 
 
 ![Müşteri Takip](https://i.hizliresim.com/m24r4ov.jpg)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                           aztekiaNdo tarafından 💜 ile hazırlandı
+ 
+
