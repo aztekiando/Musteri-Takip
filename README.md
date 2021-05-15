@@ -5,10 +5,10 @@ Modern UI tasarımı ile hem göze hitap eden hemde işlemleri kolaylaştıran b
 
 # Programa ait görüntüler
 
-![Ana Sayfa](https://www.hizliresim.com/gdkrcg5.jpg)
+![Ana Sayfa](https://i.hizliresim.com/gdkrcg5.jpg)
 
 
-![Ana Sayfa](https://www.hizliresim.com/pismk5t.jpg)
+![Proje Takip](https://i.hizliresim.com/pismk5t.jpg)
 
 
-![Ana Sayfa](https://www.hizliresim.com/m24r4ov)
+![Müşteri Takip](https://i.hizliresim.com/m24r4ov.jpg)
